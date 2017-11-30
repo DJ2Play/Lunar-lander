@@ -1,0 +1,72 @@
+body,html{height:100%;padding:0px;margin:0px}
+body{font-size:2vw;
+	background-image:url(../IMG/Fondo.jpg);
+	}
+a:hover{background-color:red;}
+#nave{
+	text-align:center;
+	position:fixed;
+	top:0%;
+	width:100%;
+	height:20%;
+}
+#nave img{
+	height:125%;
+	width:10%;
+}
+#velo_fuel{
+	position:fixed;
+	top:0%;
+	left:0%;
+}
+#velo_fuel img{
+	height:100%;
+	width:60%;
+}
+#altura{
+	position:fixed;
+	top:25%;
+	left:0%;
+}
+#altura img{
+	height:100%;
+	width:80%;
+}
+#menu1{
+	text-align:center;
+	position:fixed;
+	top:-2%;
+	right:9%;
+	width:12%;
+	height:10%;
+	list-style-type:none;
+	padding-left:unset;
+}
+#menu1 img{
+	height:35%;
+	width:51%;
+	padding:2%;
+}
+#Luna{
+	position:fixed;
+	bottom:0%;
+	width:100%;
+	height:20%;
+}
+#Luna img{
+	width:100%;
+	height:100%;
+}
+#sol{
+	position:fixed;
+	top:35%;
+	right:-20%;
+	width:35%;
+	height:100%;
+	list-style-type:none;
+	padding-left:unset;
+}
+#sol img{
+	height:100%;
+	width:80%;
+}
